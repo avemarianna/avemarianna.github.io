@@ -1,0 +1,213 @@
+
+#container {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #e6f3ff;
+}
+html * {
+  font-family: Fjalla One;
+  text-align: center;
+}
+img{
+  display: block;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    text-align: right;
+    width: 300px;
+    opacity: 1;
+}
+p{
+  font: 'Fjalla One';
+  font-size: 20px;
+  align: center;
+}
+
+h1{
+  font-size: 45px;
+  margin-left: 60px;
+
+
+}
+#intro {
+  display: inline-block;
+  background-color: #f2f2f2;
+  margin-top: 20px;
+  text-align: center;
+}
+#about-col-1-col-1{
+  display: inline-block;
+  background-color: #f2f2f2;
+  margin-top: 20px;
+  text-align: center;
+  margin-left: 60px;
+  width: 300px;
+}
+#about1 {
+  display: inline-block;
+  background-color: #f2f2f2;
+  margin-top: 20px;
+  margin-left: 100px;
+  text-align: center;
+  width: 500px;
+  vertical-align: top;
+  line-height: 80px;
+}
+header {
+background-color: #d5edf5;
+text-align: center;
+opacity: 0.8;
+
+}
+ header ul {
+ list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #;
+  font-family: inherit "Fjalla One";
+  font-size: 20px;
+
+}
+
+header li {
+  float: left;
+  margin: 2px;
+  padding: 2px;
+}
+
+header li a {
+  position: relative;
+  display: block;
+  color: black;
+  text-align: right;
+  padding: 20px 105px;
+  text-decoration: none;
+  border-bottom: none;
+
+}
+
+/* Change the link color to #111 (black) on hover */
+ header li a:hover {
+  background-color: #191d1f;
+}
+body{
+  background-color:  #e6f3ff;
+  background-image: url("palm.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+#column-1 {
+display: inline-block;
+width: 300px;
+height: 350;
+background-color: #f2f2f2;
+margin-top: 20px;
+padding: 30px;
+}
+
+#column-2 {
+  display: inline-block;
+  width: 300px;
+  height: 500;
+  background-color: #f2f2f2;
+  margin-top: 20px;
+  padding: 30px;
+}
+#column-3 {
+  display: inline-block;
+  width: 300px;
+  height: 500;
+  background-color: #f2f2f2;
+  margin-top: 20px;
+  padding: 50px;
+}
+#contact-text{
+  font-family: : 'Fjalla One';
+  font-size: 40px;
+  margin: 10;
+  padding: 25px;
+  text-align: center;
+
+}
+
+
+#contact-1 {
+  display: inline-block;
+  width: 300px;
+  height: 500;
+  margin-top: 20px;
+}
+#contact-2 {
+  display: inline-block;
+  width: 300px;
+  height: 500;
+  margin-top: 20px;
+
+}
+#contact-3 {
+  display: inline-block;
+  width: 300px;
+  height: 500;
+  margin-top: 20px;
+}
+#contact {
+  display: block;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: right;
+    width: 150px;
+    padding: 60px;
+    opacity: 1;
+
+}
+#contact-gm {
+  display: block;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: right;
+    width: 200px;
+    padding: 40px;
+    opacity: 1;
+
+}
+#column {
+  display: inline-block;
+  background-color: #f2f2f2;
+  margin-top: 20px;
+  text-align: center;
+  margin-left: 60px;
+  width: 300px;
+
+}
+
+
+#prague {
+  width: 1000px;
+  margin-left: 80px;
+}
+#stockholm {
+  width: 1000px;
+  margin-left: 80px;
+}
+#sandiego {
+  width: 1000px;
+  margin-left: 80px;
+}
+#los {
+  width: 1000px;
+  margin-left: 80px;
+}
+#sf {
+  width: 1000px;
+  margin-left: 80px;
+}
+
+
+
+footer{
+  background-color: inherit;
+  text-align: center;
+}
